@@ -1,6 +1,3 @@
-## Hi there, I'm Alex 👋
-### README.md coming soon...
-
 Welcome to my GitHub - my name is Alex. I'm a frontend software engineer from New Mexico, USA.
 I specialize in building scalable, intuitive, enterprise-level applications.
 
